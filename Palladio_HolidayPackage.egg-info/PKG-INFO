@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Palladio_HolidayPackage
+Version: 0.0.1
+Author: Mohammad Shariatmadari
+Author-email: m.shariat.62@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
