@@ -58,8 +58,8 @@ class PalladioDataExtract:
 
 if __name__ == "__main__":
     FILE_PATH = "Data/Travel.csv"
-    DATABASE = "MO121AI"
-    COLLECTION = "Data"
+    DATABASE = "PalladioDB"
+    COLLECTION = "PalladiData"
     palladiObj = PalladioDataExtract()
     records = palladiObj.csv_to_jason_convertor(file_path=FILE_PATH)
     print(records)
