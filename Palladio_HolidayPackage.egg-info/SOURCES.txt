@@ -11,6 +11,8 @@ Palladio_HolidayPackage/components/__init__.py
 Palladio_HolidayPackage/constant/__init__.py
 Palladio_HolidayPackage/entity/__init__.py
 Palladio_HolidayPackage/exception/__init__.py
+Palladio_HolidayPackage/exception/exception.py
 Palladio_HolidayPackage/logging/__init__.py
+Palladio_HolidayPackage/logging/logger.py
 Palladio_HolidayPackage/pipeline/__init__.py
 Palladio_HolidayPackage/utils/__init__.py

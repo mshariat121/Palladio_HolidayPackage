@@ -6,6 +6,9 @@ Author-email: m.shariat.62@gmail.com
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: pymongo[srv]>=4.5
+Requires-Dist: pymongo
+Requires-Dist: certifi
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
